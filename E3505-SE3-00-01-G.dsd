@@ -1,0 +1,57 @@
+[DWF6Version]
+Ver=1
+[DWF6MinorVersion]
+MinorVer=1
+[DWF6Sheet:E3505-SE3-00-01-G-Model]
+DWG=C:\Users\AERO\Downloads\E3505-SE3-00-01-G.dwg
+Layout=Model
+Setup=
+OriginalSheetPath=C:\Users\AERO\Downloads\E3505-SE3-00-01-G.dwg
+Has Plot Port=0
+Has3DDWF=0
+[DWF6Sheet:E3505-SE3-00-01-G-SE3-00-01]
+DWG=C:\Users\AERO\Downloads\E3505-SE3-00-01-G.dwg
+Layout=SE3-00-01
+Setup=
+OriginalSheetPath=C:\Users\AERO\Downloads\E3505-SE3-00-01-G.dwg
+Has Plot Port=0
+Has3DDWF=0
+[Target]
+Type=6
+DWF=C:\Users\AERO\Desktop\E3505-SE3-00-01-G.pdf
+OUT=C:\Users\AERO\Documents\
+PWD=
+[MRU Sheet List]
+MRU=0
+[PdfOptions]
+IncludeHyperlinks=TRUE
+CreateBookmarks=TRUE
+CaptureFontsInDrawing=TRUE
+ConvertTextToGeometry=FALSE
+VectorResolution=1200
+RasterResolution=400
+[AutoCAD Block Data]
+IncludeBlockInfo=0
+BlockTmplFilePath=
+[SheetSet Properties]
+IsSheetSet=FALSE
+IsHomogeneous=FALSE
+SheetSet Name=
+NoOfCopies=1
+PlotStampOn=FALSE
+ViewFile=FALSE
+JobID=0
+SelectionSetName=
+AcadProfile=<<Unnamed Profile>>
+CategoryName=
+LogFilePath=
+IncludeLayer=TRUE
+LineMerge=FALSE
+CurrentPrecision=
+PromptForDwfName=TRUE
+PwdProtectPublishedDWF=FALSE
+PromptForPwd=FALSE
+RepublishingMarkups=FALSE
+PublishSheetSetMetadata=FALSE
+PublishSheetMetadata=FALSE
+3DDWFOptions=0 1
